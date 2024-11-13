@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <div className='text-center items-center'>
-      <h1 className='text-5xl uppercase'>Jogo da cobrinha</h1>
+      <h1 className='text-5xl uppercase'>Jogo da cobra</h1>
 
       <p>Use as setas ou W/A/S/D para jogar</p>
 
